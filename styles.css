@@ -1,0 +1,11 @@
+* {
+  margin: 0px;
+}
+
+.nav-link {
+  color: black;
+}
+
+.brightred {
+  background-color: rgb(196, 4, 4);
+}

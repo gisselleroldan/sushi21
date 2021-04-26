@@ -1,0 +1,54 @@
+/* black -#000000
+navy - #14213D
+gold - #FCA311  (accent)
+light gray - #E5E5E5
+white = #FFFFFF */
+
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.bg-black {
+  background-color: black;
+}
+.bg-navy {
+  background-color: #14213d;
+}
+.bg-accent {
+  background-color: #fca311;
+}
+.bg-lightGray {
+  background-color: #e5e5e5;
+}
+
+.text-black {
+  color: black;
+}
+.text-navy {
+  color: #14213d;
+}
+.text-accent {
+  color: #fca311;
+}
+.text-accent a {
+  color: #fca311;
+}
+.text-accent a:hover {
+  color: #e5e5e5;
+}
+.text-lightGray {
+  color: #e5e5e5;
+}
+
+.ps-light {
+  background-color: white;
+  /* height: 550px; */
+  width: 100%;
+}
+
+.ps-gray{
+    background-color: #E5E5E5;
+    height: 550px;
+    width: 100%;
+}
